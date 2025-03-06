@@ -2,11 +2,11 @@
 
 I am **Bunhann**. I am a mobile and web developer in Cambodia.
 
-- 🔭 I’m currently working on personal project (mobile app using Flutter). 😍😍
+- 🔭 I’m currently working on personal project (mobile & web app). 😍😍
 - 🌱 I’m currently learning python.
 - 🤔 I’m looking for help with AI and Machine Learning.
 - 💬 Ask me anything. 😂😂
-- 📫 How to reach me: twitter.com/bunhann
+- 📫 How to reach me: x.com/bunhann
 
 <!--
 **bunhann/bunhann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
